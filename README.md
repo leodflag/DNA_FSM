@@ -2,7 +2,8 @@
 Use finite-state machine to find gene.
 
 ## 目標
-    輸入一串以核甘酸ATGC組成的染色體序列，三個為一組基因碼，以ATG為開頭，結束於TAA、TAG或TGA，若序列中找不到基因碼則顯示no gene is found
+    輸入一串以核甘酸ATGC組成的染色體序列，三個為一組基因碼，以ATG為開頭，結束於TAA、TAG或TGA，若序列中
+    找不到基因碼則顯示no gene is found
 
 ## 條件限制
     1.基因碼為3的倍數
