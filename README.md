@@ -28,3 +28,6 @@ Use finite-state machine to find gene.
     5 有了開始位置，照步驟4找T開頭的結束基因碼
         5.1 找到結束基因碼，紀錄頭尾都有的情況，紀錄結束位置，印出基因碼，開始和結束的位置都歸零
     6 循環4到5步驟
+
+## 結果
+![image](https://github.com/leodflag/DNA_FSM/blob/master/DNA_FSM_result.png)
